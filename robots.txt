@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://federalemergencyhousing.com/sitemap.xml
